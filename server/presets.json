@@ -1,0 +1,707 @@
+[
+  {
+    "category": "physical",
+    "tag": "Universe #107",
+    "concept": "1970년대 호주 산불 진압 소방관",
+    "prompt": "Transform this person into a 1970s Australian bushfire firefighter, wearing heavy yellow turnout gear covered in soot and ash, standing before a blazing eucalyptus forest at night, orange flames reflecting off helmet visor, sweat-streaked face showing exhaustion and determination, smoke-filled atmosphere, dramatic firelight, photorealistic",
+    "storyPrompt": "1970년대 호주 빅토리아주에서 산불 진압 소방관으로 살고 있는 평행세계의 이야기를 들려줘. 역대 최악의 산불 시즌 한가운데에서 동료들과 함께 마을을 지키고 있는 상황이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #234",
+    "concept": "1940년대 노르망디 상륙작전 병사",
+    "prompt": "Transform this person into a 1944 D-Day soldier on Omaha Beach, wearing olive drab M1 helmet and wet combat uniform, crouching behind steel beach obstacles, explosions in background, grey stormy sky, ocean waves crashing, sand flying, intense expression of courage amid chaos, cinematic war photography style, photorealistic",
+    "storyPrompt": "1944년 6월 노르망디 해변에서 연합군 병사로 상륙작전에 참여하고 있는 평행세계의 이야기를 들려줘. 첫 전투를 앞두고 고향에 두고 온 가족을 떠올리는 순간이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #389",
+    "concept": "히말라야 원정대 산악인",
+    "prompt": "Transform this person into a Himalayan mountaineer at high altitude camp, wearing bright orange down suit and oxygen mask pulled aside, ice-crusted goggles on forehead, standing on a snowy ridge with dramatic mountain peaks and clouds below, golden sunrise light, extreme cold visible in breath vapor, photorealistic",
+    "storyPrompt": "히말라야 8000미터 봉우리를 오르는 산악 원정대원으로 살고 있는 평행세계의 이야기를 들려줘. 정상까지 마지막 200미터를 남겨두고 폭풍이 다가오는 상황이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #451",
+    "concept": "1960년대 쿠바 복싱 챔피언",
+    "prompt": "Transform this person into a 1960s Cuban boxing champion in a dimly lit Havana boxing gym, shirtless with worn leather gloves and hand wraps, sweat glistening under a single hanging bulb, heavy bag behind them, vintage boxing posters on concrete walls, muscular and battle-scarred, warm amber tones, photorealistic",
+    "storyPrompt": "1960년대 아바나에서 쿠바 국가대표 복서로 살고 있는 평행세계의 이야기를 들려줘. 올림픽 금메달을 목전에 둔 마지막 훈련의 밤이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #518",
+    "concept": "북해 유전 심해 잠수사",
+    "prompt": "Transform this person into a North Sea saturation diver, wearing heavy brass and copper diving helmet with small viewing ports, thick vulcanized rubber suit, standing on a rusted offshore oil rig platform, grey stormy North Sea in background, rain lashing, industrial chains and pipes, dramatic overcast lighting, photorealistic",
+    "storyPrompt": "1980년대 북해 유전에서 심해 잠수사로 일하고 있는 평행세계의 이야기를 들려줘. 수심 200미터 해저에서 파이프라인 수리 중 장비 고장이 발생한 긴박한 순간이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #623",
+    "concept": "몽골 초원의 유목민 기마전사",
+    "prompt": "Transform this person into a Mongolian nomadic horse warrior on vast green steppe, wearing traditional deel robe with leather armor pieces, fur-lined hat, sitting atop a sturdy Mongolian horse, holding a curved bow, endless rolling grassland under dramatic cloudy sky, golden hour light, wind blowing through grass, photorealistic",
+    "storyPrompt": "몽골 초원에서 유목민 기마 전사로 살고 있는 평행세계의 이야기를 들려줘. 부족의 가축을 노리는 늑대떼를 추적하며 초원을 달리는 상황이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #742",
+    "concept": "아마존 열대우림 탐험가",
+    "prompt": "Transform this person into an Amazon rainforest explorer, wearing khaki expedition clothes with rolled sleeves, machete at hip, sweat-soaked bandana, pushing through dense tropical vegetation with massive green leaves and hanging vines, dappled sunlight filtering through canopy, humid misty atmosphere, exotic birds in background, photorealistic",
+    "storyPrompt": "아마존 열대우림 깊숙이 미지의 부족을 찾아 탐험 중인 평행세계의 이야기를 들려줘. 3주째 정글 속을 헤매다 강 건너편에서 연기가 피어오르는 걸 발견한 순간이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #815",
+    "concept": "노르웨이 피오르드 어부",
+    "prompt": "Transform this person into a Norwegian fjord fisherman on a weathered wooden boat, wearing thick wool sweater and yellow rain slicker, hauling heavy fishing nets from dark blue fjord waters, towering cliff walls on both sides, misty morning, seagulls flying overhead, cold blue and grey tones, photorealistic",
+    "storyPrompt": "노르웨이 피오르드에서 3대째 어부로 살고 있는 평행세계의 이야기를 들려줘. 아버지에게 물려받은 낡은 어선으로 겨울 폭풍 속에서도 바다에 나가는 이유가 있어."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #156",
+    "concept": "케냐 마라톤 국가대표 선수",
+    "prompt": "Transform this person into a Kenyan marathon runner at the finish line of a major international marathon, wearing lightweight racing singlet with Kenya flag colors, sweat-drenched, breaking the tape with arms raised in victory, packed crowd cheering, confetti in air, golden afternoon sunlight, motion blur on crowd, photorealistic",
+    "storyPrompt": "케냐 엘도렛 출신 마라톤 국가대표 선수로 살고 있는 평행세계의 이야기를 들려줘. 가난한 마을에서 맨발로 달리기 시작해 올림픽 결승선을 앞두고 있는 순간이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #963",
+    "concept": "1950년대 알래스카 벌목공",
+    "prompt": "Transform this person into a 1950s Alaskan lumberjack in a vast pine forest, wearing plaid flannel shirt with suspenders, holding a double-bit axe over shoulder, massive felled tree trunks around, sawdust in air, snow-capped mountains in distance, crisp winter morning light, breath visible in cold air, photorealistic",
+    "storyPrompt": "1950년대 알래스카 깊은 숲에서 벌목공으로 살고 있는 평행세계의 이야기를 들려줘. 혹독한 겨울이 오기 전에 마을 사람들을 위한 마지막 목재를 운반해야 하는 상황이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #287",
+    "concept": "태국 무에타이 챔피언",
+    "prompt": "Transform this person into a Muay Thai champion in a Bangkok stadium ring, wearing traditional mongkon headpiece and prajioud armbands, hands wrapped in hemp rope, standing in fighting stance under harsh ring lights, packed Thai crowd in smoky background, sweat and determination, red corner, photorealistic",
+    "storyPrompt": "방콕 룸피니 스타디움에서 무에타이 챔피언으로 살고 있는 평행세계의 이야기를 들려줘. 어린 시절 거리에서 구해준 스승의 은혜를 갚기 위해 링 위에 서는 마지막 경기야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #374",
+    "concept": "남극 과학기지 월동대원",
+    "prompt": "Transform this person into an Antarctic winter-over crew member, wearing extreme cold weather gear with fur-lined hood, standing outside a small research station, vast white ice sheet stretching to horizon, aurora australis dancing in dark polar sky, green and purple lights, extreme isolation, temperature display showing -50C, photorealistic",
+    "storyPrompt": "남극 세종과학기지에서 월동대원으로 6개월째 고립된 생활을 하고 있는 평행세계의 이야기를 들려줘. 극야의 어둠 속에서 오로라를 바라보며 가족을 그리워하는 밤이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #529",
+    "concept": "사하라 사막 랠리 드라이버",
+    "prompt": "Transform this person into a Sahara desert rally driver leaning against a dusty rally car, wearing racing suit unzipped to waist, goggles on forehead, sand-caked face, vast orange sand dunes stretching behind, brutal midday sun, heat haze rising from sand, tire tracks disappearing into distance, photorealistic",
+    "storyPrompt": "사하라 사막 횡단 랠리에 참가한 드라이버로 살고 있는 평행세계의 이야기를 들려줘. 엔진 고장으로 사막 한가운데 멈춰선 채 다음 체크포인트까지 100km가 남은 상황이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #648",
+    "concept": "1890년대 미국 카우보이",
+    "prompt": "Transform this person into a 1890s American cowboy on the open Western plains, wearing dusty leather chaps, faded denim, wide-brimmed Stetson hat, bandana around neck, sitting on a brown quarter horse, lasso coiled at saddle, vast prairie with distant mesa formations, golden sunset, dust cloud from cattle herd behind, photorealistic",
+    "storyPrompt": "1890년대 텍사스에서 카우보이로 살며 소떼를 몰고 있는 평행세계의 이야기를 들려줘. 캔자스까지 2000마리의 소를 이끌고 가는 3개월간의 대장정 중이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #791",
+    "concept": "인도네시아 전통 잠수 해녀",
+    "prompt": "Transform this person into a Bajau sea nomad free diver in crystal clear Indonesian waters, wearing simple hand-carved wooden goggles, holding a handmade spear, underwater scene with coral reef and tropical fish, sunlight streaming through turquoise water from above, bubbles rising, serene and graceful, photorealistic",
+    "storyPrompt": "인도네시아 바자우족 해양 유목민으로 바다 위에서 살고 있는 평행세계의 이야기를 들려줘. 맨몸으로 20미터 깊이까지 잠수하며 가족의 식량을 구하는 일상이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #183",
+    "concept": "스위스 알프스 산악 구조대원",
+    "prompt": "Transform this person into a Swiss Alps mountain rescue team member, wearing red rescue jacket with white cross, helmet with headlamp, rappelling down a steep snowy cliff face with rescue rope, helicopter hovering above, dramatic Alpine peaks and glaciers, blizzard conditions, intense focus, photorealistic",
+    "storyPrompt": "스위스 알프스에서 산악 구조대원으로 일하고 있는 평행세계의 이야기를 들려줘. 눈사태에 갇힌 등산객의 구조 신호를 받고 폭풍 속으로 출동하는 순간이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #436",
+    "concept": "1920년대 대서양 횡단 비행사",
+    "prompt": "Transform this person into a 1920s transatlantic aviator standing beside a silver biplane on a grass airfield, wearing leather flight jacket with fur collar, leather flying cap and goggles pushed up, white silk scarf, dawn breaking over the English Channel, propeller spinning, ground crew in background, vintage sepia-warm tones, photorealistic",
+    "storyPrompt": "1920년대 대서양 횡단 비행에 도전하는 비행사로 살고 있는 평행세계의 이야기를 들려줘. 단독 비행으로 파리를 향해 이륙하기 직전, 활주로 끝에 선 새벽이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #562",
+    "concept": "아이슬란드 화산 관측 연구원",
+    "prompt": "Transform this person into a volcanologist at an Icelandic eruption site, wearing silver heat-resistant proximity suit with visor up, holding a thermal sensor device, standing dangerously close to flowing orange lava river, volcanic ash raining down, black basalt landscape, red glow illuminating everything, steam vents, photorealistic",
+    "storyPrompt": "아이슬란드에서 화산 관측 연구원으로 활동하고 있는 평행세계의 이야기를 들려줘. 예고 없이 시작된 화산 폭발 현장에 가장 먼저 도착해 데이터를 수집하는 중이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #695",
+    "concept": "브라질 파벨라 출신 프로 축구선수",
+    "prompt": "Transform this person into a Brazilian football star celebrating a goal in a massive stadium, wearing yellow and green national team jersey number 10, sliding on knees on lush green pitch, confetti and streamers falling, 80000 fans in packed Maracana stadium, floodlights blazing, pure ecstasy expression, photorealistic",
+    "storyPrompt": "브라질 리우 파벨라에서 자라 국가대표 축구선수가 된 평행세계의 이야기를 들려줘. 월드컵 결승 후반 추가시간에 동점골을 넣은 직후의 순간이야."
+  },
+  {
+    "category": "physical",
+    "tag": "Universe #847",
+    "concept": "베트남 전쟁 종군 사진기자",
+    "prompt": "Transform this person into a Vietnam War combat photographer, wearing olive green fatigues with press badge, multiple cameras hanging from neck and shoulder, crouching in dense jungle vegetation, rain pouring down, distant helicopter silhouette, hazy green atmosphere with shafts of light, determined and haunted expression, photorealistic",
+    "storyPrompt": "베트남 전쟁 한복판에서 종군 사진기자로 활동하고 있는 평행세계의 이야기를 들려줘. 전쟁의 참상을 세상에 알리기 위해 카메라를 무기 삼아 최전선에 서 있는 순간이야."
+  },
+
+  {
+    "category": "knowledge",
+    "tag": "Universe #124",
+    "concept": "1960년대 NASA 로켓 엔지니어",
+    "prompt": "Transform this person into a 1960s NASA rocket engineer in Mission Control Houston, wearing short-sleeve white dress shirt with thin black tie, pocket protector with pens, standing before massive wall of analog monitors and switches, Saturn V rocket visible on screen, tense atmosphere, fluorescent lighting, vintage technology, photorealistic",
+    "storyPrompt": "1960년대 NASA에서 아폴로 계획의 로켓 엔지니어로 일하고 있는 평행세계의 이야기를 들려줘. 아폴로 13호의 긴급 상황에서 승무원을 지구로 돌려보내기 위한 밤샘 작업 중이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #258",
+    "concept": "이집트 왕가의 계곡 고고학자",
+    "prompt": "Transform this person into an archaeologist discovering a pharaoh's tomb in Egypt's Valley of the Kings, wearing khaki safari outfit and wide-brimmed hat, holding a lantern illuminating golden hieroglyphic walls, ancient sarcophagus partially visible, dust particles floating in lamplight, sense of awe and discovery, warm golden tones, photorealistic",
+    "storyPrompt": "이집트 왕가의 계곡에서 미지의 파라오 무덤을 발굴하는 고고학자로 살고 있는 평행세계의 이야기를 들려줘. 3000년 만에 봉인이 풀린 석실 앞에 서 있는 순간이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #316",
+    "concept": "체르노빌 원전 사고 물리학자",
+    "prompt": "Transform this person into a nuclear physicist at Chernobyl in 1986, wearing white lab coat over formal clothes, standing in a Soviet-era control room with red warning lights flashing, Geiger counter in hand showing dangerous readings, stressed expression, cold fluorescent lighting, concrete walls, analog instruments, photorealistic",
+    "storyPrompt": "1986년 체르노빌 원전에서 근무하는 핵물리학자로 살고 있는 평행세계의 이야기를 들려줘. 사고 직후 방사능 수치가 치솟는 제어실에서 동료들과 함께 최악을 막으려는 순간이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #472",
+    "concept": "르네상스 시대 피렌체 해부학자",
+    "prompt": "Transform this person into a Renaissance-era anatomist in Florence, wearing dark velvet doublet with white linen collar, standing in a candlelit stone dissection theater, detailed anatomical drawings pinned to walls, quill pen and inkwell nearby, leather-bound books stacked, dramatic chiaroscuro lighting like a Caravaggio painting, photorealistic",
+    "storyPrompt": "르네상스 시대 피렌체에서 인체 해부학을 연구하는 학자로 살고 있는 평행세계의 이야기를 들려줘. 교회의 금기를 어기며 밤마다 비밀리에 해부학 연구를 이어가고 있어."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #539",
+    "concept": "아프리카 에볼라 현장 의사",
+    "prompt": "Transform this person into a field doctor fighting Ebola in West Africa, wearing full hazmat PPE suit with face shield and blue gloves, standing outside a makeshift clinic tent with WHO flag, red biohazard signs, exhausted but resolute eyes visible through face shield, harsh tropical sunlight, dusty ground, photorealistic",
+    "storyPrompt": "서아프리카에서 에볼라 확산을 막기 위해 현장에 파견된 의사로 살고 있는 평행세계의 이야기를 들려줘. 의료 물자가 바닥나가는 상황에서도 환자들을 포기하지 않는 이유가 있어."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #681",
+    "concept": "조선시대 천문학자",
+    "prompt": "Transform this person into a Joseon Dynasty royal astronomer, wearing scholar's gat hat and blue-grey hanbok durumagi, standing beside a large bronze armillary sphere (혼천의) on a palace rooftop observatory, night sky full of stars, traditional Korean palace architecture in background, moonlight illuminating the scene, ink brush and star charts nearby, photorealistic",
+    "storyPrompt": "조선시대 관상감의 천문학자로 살고 있는 평행세계의 이야기를 들려줘. 왕명으로 새로운 역법을 만들기 위해 밤마다 별을 관측하며 기록하는 중이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #753",
+    "concept": "심해 열수구 해양생물학자",
+    "prompt": "Transform this person into a deep-sea marine biologist inside a research submersible, face illuminated by control panel blue lights, looking through a thick porthole at bioluminescent creatures and hydrothermal vents on the ocean floor, bubbles and strange deep-sea organisms visible, dark water beyond, sense of wonder, photorealistic",
+    "storyPrompt": "심해 탐사 잠수정을 타고 마리아나 해구의 열수구를 연구하는 해양생물학자로 살고 있는 평행세계의 이야기를 들려줘. 수심 4000미터에서 한 번도 기록되지 않은 생물을 발견한 순간이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #829",
+    "concept": "빅토리아 시대 런던 법의학자",
+    "prompt": "Transform this person into a Victorian-era forensic scientist in a gaslit London laboratory, wearing tweed waistcoat and rolled sleeves, examining evidence through a brass microscope, shelves of specimen jars and chemical bottles, foggy London visible through window, dark wood and leather interior, warm amber gaslight, photorealistic",
+    "storyPrompt": "빅토리아 시대 런던에서 스코틀랜드 야드의 법의학자로 일하고 있는 평행세계의 이야기를 들려줘. 연쇄 사건의 결정적 단서를 현미경 아래에서 발견한 밤이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #194",
+    "concept": "CERN 입자물리학 연구원",
+    "prompt": "Transform this person into a CERN particle physicist standing inside the massive Large Hadron Collider tunnel, wearing hard hat and safety vest over casual clothes, enormous circular tunnel stretching into distance with blue superconducting magnets, scale dwarfing the person, industrial yet futuristic, cool blue and metallic tones, photorealistic",
+    "storyPrompt": "스위스 CERN에서 입자물리학 연구원으로 살고 있는 평행세계의 이야기를 들려줘. 새로운 입자의 존재를 암시하는 데이터를 발견하고 밤새 검증 실험을 준비하는 중이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #367",
+    "concept": "1930년대 페루 잉카 유적 탐사 인류학자",
+    "prompt": "Transform this person into a 1930s anthropologist at a newly discovered Inca site in Peru, wearing worn leather jacket and canvas field bag, standing atop ancient stone ruins emerging from cloud forest, Andes peaks in background, morning mist swirling around moss-covered walls, field notebook in hand, sense of historic discovery, photorealistic",
+    "storyPrompt": "1930년대 페루 안데스 산맥에서 알려지지 않은 잉카 유적을 발견한 인류학자로 살고 있는 평행세계의 이야기를 들려줘. 현지 가이드의 도움으로 구름숲 속 잊혀진 도시에 도달한 순간이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #493",
+    "concept": "인도 전통 아유르베다 의학자",
+    "prompt": "Transform this person into a traditional Ayurvedic medicine practitioner in Kerala India, wearing simple white cotton dhoti and kurta, sitting cross-legged in an open-air herbal pharmacy surrounded by hundreds of clay pots and dried herbs, grinding medicinal paste with stone mortar, lush tropical garden visible through carved wooden arches, warm natural light, photorealistic",
+    "storyPrompt": "인도 케랄라에서 5대째 아유르베다 의학을 이어가는 의학자로 살고 있는 평행세계의 이야기를 들려줘. 현대 의학이 포기한 환자가 마지막 희망을 품고 찾아온 날이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #615",
+    "concept": "냉전시대 암호 해독가",
+    "prompt": "Transform this person into a Cold War era codebreaker at NSA headquarters, wearing 1960s formal attire with horn-rimmed glasses, hunched over a desk covered in coded documents and cipher wheels, massive early computer mainframes with blinking lights in background, ashtray full of cigarettes, tense secretive atmosphere, harsh fluorescent lighting, photorealistic",
+    "storyPrompt": "냉전 시대 미국 국가안보국에서 소련의 암호를 해독하는 분석관으로 살고 있는 평행세계의 이야기를 들려줘. 핵 위기를 막을 수 있는 통신문을 해독하기 위해 48시간째 밤을 새우는 중이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #738",
+    "concept": "갈라파고스 진화생물학자",
+    "prompt": "Transform this person into an evolutionary biologist on the Galapagos Islands, wearing sun-faded field clothes and wide hat, kneeling on volcanic black rock to observe a marine iguana up close, turquoise Pacific Ocean behind, unique wildlife everywhere including blue-footed boobies and giant tortoises, bright equatorial sunlight, photorealistic",
+    "storyPrompt": "갈라파고스 제도에서 진화생물학을 연구하는 학자로 살고 있는 평행세계의 이야기를 들려줘. 다윈이 놓친 새로운 종의 적응 패턴을 발견하고 흥분을 감추지 못하는 순간이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #851",
+    "concept": "오스만 제국 궁정 수학자",
+    "prompt": "Transform this person into an Ottoman Empire court mathematician, wearing elaborate silk kaftan and large white turban, sitting at an ornate desk with astrolabe, geometric instruments, and Arabic mathematical manuscripts, inside a domed library with intricate tile patterns, arched windows letting in golden light, photorealistic",
+    "storyPrompt": "오스만 제국 술탄의 궁정 수학자로 살고 있는 평행세계의 이야기를 들려줘. 술탄이 하사한 천문대에서 별의 궤도를 계산하며 새로운 수학 이론을 완성하려는 밤이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #276",
+    "concept": "북극 빙하 기후학자",
+    "prompt": "Transform this person into an Arctic climate scientist drilling ice cores on a vast glacier, wearing heavy insulated parka with research institute patch, operating a tall ice core drilling rig, translucent blue ice core sample held up to light, endless white ice field under pale arctic sky, research tent camp in distance, photorealistic",
+    "storyPrompt": "북극에서 빙하 코어를 시추하며 기후 변화를 연구하는 과학자로 살고 있는 평행세계의 이야기를 들려줘. 10만 년 전 대기 성분이 담긴 얼음 속에서 예상치 못한 데이터를 발견한 순간이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #412",
+    "concept": "1800년대 다게레오타입 사진 발명가",
+    "prompt": "Transform this person into an 1840s daguerreotype photography pioneer in a Paris studio, wearing dark frock coat and cravat, standing beside a large wooden box camera on tripod, silver-coated copper plates and mercury vapor equipment on workbench, portrait subjects waiting in background, dusty window light, early photography aesthetic, photorealistic",
+    "storyPrompt": "1840년대 파리에서 초창기 사진술을 연구하는 발명가로 살고 있는 평행세계의 이야기를 들려줘. 세계 최초로 움직이는 사물을 포착하는 기술을 실험하는 중이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #584",
+    "concept": "티벳 전통 의학 승려",
+    "prompt": "Transform this person into a Tibetan medicine monk at a remote Himalayan monastery, wearing maroon and saffron robes, surrounded by thangka paintings of medical diagrams, shelves of dried herbs and mineral medicines in wooden drawers, morning light streaming through small monastery window, snow-capped peaks visible outside, peaceful and scholarly atmosphere, photorealistic",
+    "storyPrompt": "티벳 고원의 사원에서 전통 의학을 수행하는 승려로 살고 있는 평행세계의 이야기를 들려줘. 수백 년간 전해 내려온 의학 경전을 현대어로 번역하는 평생의 작업 중이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #917",
+    "concept": "1950년대 로잘린드 프랭클린 시대 DNA 연구자",
+    "prompt": "Transform this person into a 1950s molecular biologist in a Cambridge laboratory, wearing white lab coat over wool sweater, examining X-ray crystallography images on a light box showing DNA diffraction patterns, complex laboratory glassware and equipment around, blackboard covered in molecular diagrams, concentrated scholarly expression, photorealistic",
+    "storyPrompt": "1950년대 영국 캠브리지에서 DNA 구조를 연구하는 분자생물학자로 살고 있는 평행세계의 이야기를 들려줘. X선 회절 사진에서 생명의 비밀을 풀 수 있는 패턴을 발견한 순간이야."
+  },
+  {
+    "category": "knowledge",
+    "tag": "Universe #148",
+    "concept": "마야 문명 상형문자 해독 언어학자",
+    "prompt": "Transform this person into a linguist deciphering Maya hieroglyphs at a jungle temple site in Guatemala, wearing light field clothes, sitting on ancient stone steps with rubbing paper and charcoal, ornate carved glyphs on massive stone stela beside them, dense jungle canopy above, howler monkeys in trees, humid green atmosphere, photorealistic",
+    "storyPrompt": "과테말라 밀림 속 마야 유적에서 상형문자를 해독하는 언어학자로 살고 있는 평행세계의 이야기를 들려줘. 수십 년간 풀리지 않던 비문의 의미를 마침내 이해하게 된 순간이야."
+  },
+
+  {
+    "category": "power",
+    "tag": "Universe #131",
+    "concept": "1960년대 쿠바 혁명 지도자",
+    "prompt": "Transform this person into a 1960s Cuban revolutionary leader, wearing olive green military fatigues and black beret with silver star, standing on a balcony addressing a massive crowd in Havana's Plaza de la Revolucion, Cuban flags waving everywhere, powerful oratory gesture with raised fist, dramatic cloudy sky, photorealistic",
+    "storyPrompt": "1960년대 쿠바에서 혁명 지도자로 민중을 이끌고 있는 평행세계의 이야기를 들려줘. 혁명 성공 직후 광장에 모인 수십만 군중 앞에서 새로운 시대의 첫 연설을 하는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #246",
+    "concept": "고려시대 무신정권 장군",
+    "prompt": "Transform this person into a Goryeo Dynasty military general, wearing ornate lamellar armor with silk surcoat, traditional Korean warrior helmet with horsehair plume, holding a decorated sword, standing in a torchlit palace courtyard, Korean traditional architecture with curved roof tiles, loyal soldiers kneeling behind, night scene with dramatic torch flames, photorealistic",
+    "storyPrompt": "고려시대 무신정권의 장군으로 살고 있는 평행세계의 이야기를 들려줘. 왕을 폐위하고 새로운 질서를 세우려는 결단의 밤, 궁궐 앞에 서 있는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #358",
+    "concept": "1990년대 실리콘밸리 스타트업 창업자",
+    "prompt": "Transform this person into a 1990s Silicon Valley tech startup founder in a cluttered garage office, wearing casual polo shirt and khakis, whiteboard behind covered in diagrams and code, early desktop computers and tangled cables everywhere, pizza boxes stacked, intense entrepreneurial energy, warm California light through garage door, photorealistic",
+    "storyPrompt": "1990년대 실리콘밸리 차고에서 인터넷 스타트업을 창업한 평행세계의 이야기를 들려줘. 투자자들에게 거절당한 다음 날, 제품이 갑자기 입소문을 타기 시작한 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #475",
+    "concept": "무굴 제국 황녀",
+    "prompt": "Transform this person into Mughal Empire royalty in a magnificent marble palace, wearing elaborate gold-embroidered silk outfit with jeweled turban or headpiece, precious gems and pearl necklaces, standing in a white marble jali-screened balcony overlooking Mughal gardens with fountains, peacocks on lawn, warm golden sunset light through intricate carved screens, photorealistic",
+    "storyPrompt": "무굴 제국의 황족으로 살고 있는 평행세계의 이야기를 들려줘. 제국의 미래를 결정지을 중요한 외교 협상을 앞두고 정원에서 전략을 가다듬는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #597",
+    "concept": "1980년대 홍콩 부동산 재벌",
+    "prompt": "Transform this person into a 1980s Hong Kong real estate tycoon, wearing impeccably tailored double-breasted suit with gold cufflinks and Rolex, standing in a penthouse office with floor-to-ceiling windows overlooking Victoria Harbour at night, neon-lit Hong Kong skyline reflecting on water, luxury furniture, cigar in hand, power and wealth, photorealistic",
+    "storyPrompt": "1980년대 홍콩에서 부동산 재벌로 살고 있는 평행세계의 이야기를 들려줘. 반환 협상이 진행되는 격변기에 제국을 지킬 것인지 떠날 것인지 결단해야 하는 밤이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #713",
+    "concept": "바이킹 함대 족장",
+    "prompt": "Transform this person into a Viking chieftain on the prow of a longship, wearing chainmail armor with fur-lined cloak, ornate silver arm rings, braided hair blowing in wind, standing heroically as the dragon-headed ship cuts through dark North Atlantic waves, fleet of longships behind, stormy grey sky with break of light on horizon, photorealistic",
+    "storyPrompt": "북유럽 바이킹 함대의 족장으로 살고 있는 평행세계의 이야기를 들려줘. 새로운 땅을 찾아 대서양을 건너는 항해의 마지막 날, 수평선에 미지의 해안선이 보이기 시작한 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #832",
+    "concept": "1960년대 아프리카 독립운동 지도자",
+    "prompt": "Transform this person into a 1960s African independence movement leader, wearing traditional West African agbada robe with modern glasses, standing at a United Nations podium with microphones, flags of newly independent African nations behind, packed assembly hall, powerful dignified presence, historic moment, photorealistic",
+    "storyPrompt": "1960년대 서아프리카 신생 독립국의 초대 지도자로 살고 있는 평행세계의 이야기를 들려줘. 유엔 총회에서 식민지배의 부당함을 고발하는 역사적 연설을 하는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #169",
+    "concept": "에도시대 일본 다이묘",
+    "prompt": "Transform this person into an Edo period Japanese daimyo lord, wearing elaborate samurai formal kamishimo outfit with family crest, seated in a tatami room of a castle, katana on lacquered sword stand beside them, shoji screen showing autumn garden with red maples, retainers bowing in background, candlelight reflecting off polished wood floors, photorealistic",
+    "storyPrompt": "에도시대 일본의 다이묘로 살고 있는 평행세계의 이야기를 들려줘. 이웃 번과의 전쟁을 피하기 위해 정략결혼을 제안받은 밤, 가문의 운명을 고민하는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #294",
+    "concept": "월스트리트 헤지펀드 매니저",
+    "prompt": "Transform this person into a Wall Street hedge fund manager on a busy trading floor, wearing expensive navy suit with loosened tie, multiple Bloomberg terminal screens showing red and green charts behind them, phone pressed to ear, intense expression during market crash, papers flying, chaotic energy, blue monitor glow, photorealistic",
+    "storyPrompt": "월스트리트에서 헤지펀드를 운용하는 매니저로 살고 있는 평행세계의 이야기를 들려줘. 시장 대폭락이 시작된 아침, 수십억 달러의 포지션을 지킬지 손절할지 10분 안에 결정해야 해."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #426",
+    "concept": "비잔틴 제국 황제",
+    "prompt": "Transform this person into a Byzantine Emperor in the Hagia Sophia, wearing imperial purple robes with gold embroidery, jeweled crown with pendant pearls, holding golden orb and scepter, standing beneath the massive golden dome with mosaic of Christ Pantocrator above, shafts of light from high windows, incense smoke, court officials in background, photorealistic",
+    "storyPrompt": "비잔틴 제국의 황제로 하기아 소피아에서 대관식을 치르는 평행세계의 이야기를 들려줘. 제국이 사방에서 위협받는 가운데 왕관의 무게를 느끼는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #551",
+    "concept": "마사이족 부족장",
+    "prompt": "Transform this person into a Maasai tribal chief in the Kenyan savanna, wearing vibrant red shuka cloth draped elegantly, elaborate beaded necklaces and ear ornaments, holding a wooden staff, standing tall on a rocky outcrop overlooking vast golden grassland with acacia trees, herd of elephants in distance, dramatic East African sunset, photorealistic",
+    "storyPrompt": "케냐 마사이족의 부족장으로 살고 있는 평행세계의 이야기를 들려줘. 가뭄으로 물이 마른 땅에서 부족민들을 이끌고 새로운 목초지를 찾아 대이동을 결정하는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #673",
+    "concept": "1920년대 상하이 조계지 갱스터 보스",
+    "prompt": "Transform this person into a 1920s Shanghai gangster boss in a smoky Art Deco nightclub, wearing tailored three-piece suit with silk tie and fedora hat tilted, seated in a velvet booth, champagne glass in hand, jazz band playing on stage, neon signs visible through rain-streaked windows, dangerous charisma, noir atmosphere with dramatic shadows, photorealistic",
+    "storyPrompt": "1920년대 상하이 조계지에서 암흑가의 보스로 군림하는 평행세계의 이야기를 들려줘. 프랑스 조계와 영국 조계 사이에서 세력 균형을 유지하며 제국을 키워가는 중이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #789",
+    "concept": "UN 난민기구 사무총장",
+    "prompt": "Transform this person into a UN High Commissioner for Refugees visiting a massive refugee camp, wearing business attire with UN blue vest, walking through rows of white UNHCR tents stretching to horizon, displaced families and children around, dusty arid landscape, media cameras following, compassionate but determined expression, photorealistic",
+    "storyPrompt": "UN 난민기구 사무총장으로 전 세계 난민 위기에 대응하고 있는 평행세계의 이야기를 들려줘. 세계 최대 난민 캠프를 방문한 날, 한 아이의 눈을 보고 결의를 다지는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #345",
+    "concept": "잉카 제국 태양의 사제",
+    "prompt": "Transform this person into an Inca high priest at Machu Picchu during a solstice ceremony, wearing elaborate gold and feathered headdress, richly woven ceremonial tunic with geometric patterns, arms raised toward the sun at the Intihuatana stone, mountain peaks piercing clouds below, other priests and nobles in ceremonial dress, golden sunlight breaking through mist, photorealistic",
+    "storyPrompt": "잉카 제국의 태양 신전 대사제로 살고 있는 평행세계의 이야기를 들려줘. 동짓날 마추픽추에서 태양신 인티에게 제국의 번영을 기원하는 가장 성대한 의식을 집전하는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #918",
+    "concept": "1950년대 할리우드 영화 스튜디오 사장",
+    "prompt": "Transform this person into a 1950s Hollywood studio mogul in a lavish wood-paneled office, wearing expensive suit with silk pocket square, seated behind a massive mahogany desk covered in film scripts and golden Oscar statuettes, movie posters on walls, view of the Hollywood sign through window, cigar smoke curling, power and glamour, photorealistic",
+    "storyPrompt": "1950년대 할리우드 황금기에 메이저 영화 스튜디오를 이끄는 사장으로 살고 있는 평행세계의 이야기를 들려줘. 검열 위원회와 싸우며 시대를 앞서간 영화를 만들겠다는 결단의 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #207",
+    "concept": "티무르 제국 정복자",
+    "prompt": "Transform this person into a Timurid Empire conqueror on horseback surveying a conquered city from a hilltop, wearing ornate Central Asian armor with gold inlay, silk turban with jeweled pin, fur-trimmed cloak, vast army encampment with colorful tents spreading across the valley below, Silk Road city with blue-tiled domes in distance, dramatic sunset over mountains, photorealistic",
+    "storyPrompt": "티무르 제국의 정복자로 중앙아시아를 호령하는 평행세계의 이야기를 들려줘. 실크로드의 요충지를 점령한 직후, 다음 원정을 향해 지도를 펼치는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #634",
+    "concept": "국제 해양 구조 NGO 대표",
+    "prompt": "Transform this person into the director of a maritime rescue NGO on the deck of a rescue ship in the Mediterranean, wearing orange safety vest over dark clothes, binoculars around neck, rescue zodiac boats being deployed behind, distressed vessel visible on horizon, crew members rushing, urgent but composed leadership, grey churning sea, photorealistic",
+    "storyPrompt": "지중해에서 해양 구조 NGO를 이끌고 있는 평행세계의 이야기를 들려줘. 조난 신호를 받고 폭풍 속으로 구조선을 출항시키는 결단의 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #486",
+    "concept": "조선 후기 여성 의병장",
+    "prompt": "Transform this person into a late Joseon Dynasty resistance fighter leader, wearing worn but dignified hanbok with leather armor pieces, traditional Korean sword at waist, standing on a forested mountain ridge with a band of guerrilla fighters behind, Korean mountain landscape with pine trees, morning fog in valleys below, fierce and noble expression, photorealistic",
+    "storyPrompt": "조선 후기 의병장으로 외세에 맞서 싸우고 있는 평행세계의 이야기를 들려줘. 산속 근거지에서 동지들과 함께 마지막 작전을 준비하는 새벽이야."
+  },
+
+  {
+    "category": "art",
+    "tag": "Universe #137",
+    "concept": "1920년대 파리 몽마르트르 화가",
+    "prompt": "Transform this person into a 1920s Montmartre painter in a bohemian Paris atelier, wearing paint-stained smock over striped shirt, beret slightly askew, standing before a large unfinished canvas on easel, oil paints and brushes scattered everywhere, absinthe glass on stool, view of Sacre-Coeur through garret window, warm amber afternoon light, photorealistic",
+    "storyPrompt": "1920년대 파리 몽마르트르에서 무명 화가로 살고 있는 평행세계의 이야기를 들려줘. 전 재산을 털어 준비한 첫 개인전 전날 밤, 마지막 그림을 완성하려는 순간이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #263",
+    "concept": "나폴리 피자 장인",
+    "prompt": "Transform this person into a Neapolitan pizza master in a traditional pizzeria, wearing white chef's jacket with flour dusting, tossing pizza dough high in the air with expert hands, wood-fired brick oven glowing orange behind, hanging copper pans, vintage Italian tiles, San Marzano tomatoes and fresh mozzarella on marble counter, warm inviting atmosphere, photorealistic",
+    "storyPrompt": "나폴리에서 4대째 피자 장인으로 살고 있는 평행세계의 이야기를 들려줘. 할아버지에게 물려받은 100년 된 화덕 앞에서 전통을 지키며 매일 반죽을 만드는 이야기야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #395",
+    "concept": "1950년대 뉴올리언스 재즈 트럼펫터",
+    "prompt": "Transform this person into a 1950s New Orleans jazz trumpet player on Bourbon Street, wearing sharp dark suit with thin tie and porkpie hat, playing a gleaming brass trumpet under a flickering neon club sign, smoky intimate jazz bar interior, audience silhouettes, warm blue and amber lighting, musical passion visible in closed eyes and bent posture, photorealistic",
+    "storyPrompt": "1950년대 뉴올리언스 버번 스트리트에서 재즈 트럼펫을 부는 뮤지션으로 살고 있는 평행세계의 이야기를 들려줘. 레코드 회사 스카우트가 몰래 찾아온 그 밤의 공연이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #527",
+    "concept": "교토 전통 도예가",
+    "prompt": "Transform this person into a traditional Kyoto ceramicist in a rustic pottery workshop, wearing indigo-dyed samue work clothes with clay-stained apron, hands shaping wet clay on a spinning wheel, shelves of unfired and glazed pottery pieces behind, wood-burning kiln visible through doorway, natural light from shoji screens, peaceful zen atmosphere, photorealistic",
+    "storyPrompt": "교토에서 전통 라쿠야키 도예를 이어가는 장인으로 살고 있는 평행세계의 이야기를 들려줘. 스승이 남긴 미완성 다완을 완성하기 위해 마지막 가마불을 지피는 순간이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #649",
+    "concept": "마라케시 전통 타일 모자이크 장인",
+    "prompt": "Transform this person into a Moroccan zellige tile artisan in a Marrakech workshop, wearing traditional djellaba robe, carefully placing tiny hand-cut colorful ceramic tile pieces into an intricate geometric mosaic pattern on a fountain panel, workshop walls covered in stunning zellige examples, natural courtyard light, vibrant blues greens and golds, photorealistic",
+    "storyPrompt": "모로코 마라케시에서 전통 젤리즈 타일 모자이크 장인으로 살고 있는 평행세계의 이야기를 들려줘. 왕궁에서 의뢰받은 작품을 1년째 만들고 있는데 마지막 조각을 놓을 순간이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #782",
+    "concept": "아르헨티나 탱고 댄서",
+    "prompt": "Transform this person into an Argentine tango dancer in a vintage Buenos Aires milonga dance hall, wearing elegant black attire, captured mid-dance in a dramatic pose, partner's hand visible, polished wooden dance floor reflecting warm chandelier light, other couples dancing in soft focus background, passionate expression, motion blur on spinning movement, photorealistic",
+    "storyPrompt": "부에노스아이레스 산텔모 지구에서 탱고 댄서로 살고 있는 평행세계의 이야기를 들려줘. 세계 탱고 챔피언십 결선 무대에서 인생을 건 마지막 춤을 추는 순간이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #158",
+    "concept": "발리 전통 목각 조각가",
+    "prompt": "Transform this person into a Balinese master woodcarver in an open-air workshop surrounded by tropical garden, wearing simple sarong and headband, meticulously carving an elaborate Hindu deity from a large block of dark wood with traditional chisels, wood shavings everywhere, finished intricate carvings displayed around, dappled jungle light, photorealistic",
+    "storyPrompt": "발리에서 전통 목각 조각가로 살고 있는 평행세계의 이야기를 들려줘. 사원 축제를 위한 신상 조각을 완성해야 하는데, 나무 속에서 신의 얼굴이 보이기 시작한 순간이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #314",
+    "concept": "1970년대 런던 펑크 록 뮤지션",
+    "prompt": "Transform this person into a 1970s London punk rock musician on stage at a grimy underground club, wearing ripped band t-shirt with safety pins, leather jacket with studs, spiked hair, screaming into a vintage microphone, electric guitar slung low, sweat flying, mosh pit crowd below, harsh colored stage lights cutting through smoke, raw energy, photorealistic",
+    "storyPrompt": "1970년대 런던에서 펑크 록 밴드의 프론트맨으로 살고 있는 평행세계의 이야기를 들려줘. 아무도 관심 없던 지하 클럽에서 시작해 첫 앨범 발매일 밤의 공연이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #443",
+    "concept": "무라노 유리 공예 마에스트로",
+    "prompt": "Transform this person into a Murano glass master in Venice, wearing simple work clothes with leather apron, blowing a large molten glass bubble on a long iron pipe, furnace glowing intensely orange behind, shelves of exquisite finished glass pieces in brilliant colors, other artisans working in background, extreme heat visible in the air, photorealistic",
+    "storyPrompt": "베네치아 무라노 섬에서 유리 공예 마에스트로로 살고 있는 평행세계의 이야기를 들려줘. 1200도 용광로 앞에서 가문의 비밀 기법으로 세상에 하나뿐인 작품을 만드는 순간이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #576",
+    "concept": "에티오피아 커피 세레모니 마스터",
+    "prompt": "Transform this person into an Ethiopian coffee ceremony master, wearing white traditional habesha kemis dress with colorful embroidered border, roasting green coffee beans in a flat pan over charcoal, aromatic smoke rising, traditional jebena clay pot nearby, fresh green grass and flowers scattered on floor, incense burning, warm intimate gathering setting, photorealistic",
+    "storyPrompt": "에티오피아 고원에서 전통 커피 세레모니를 이끄는 마스터로 살고 있는 평행세계의 이야기를 들려줘. 커피의 발상지에서 수백 년간 이어져 온 의식을 다음 세대에게 전하는 순간이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #708",
+    "concept": "페루 직물 예술가",
+    "prompt": "Transform this person into a Peruvian textile artist in the Sacred Valley, wearing colorful traditional Andean clothing with woven chullo hat, sitting at a large backstrap loom creating an intricate tapestry with vibrant natural dyes, llamas grazing in background, Andes mountains and terraced hillsides, bright highland sunlight, photorealistic",
+    "storyPrompt": "페루 안데스 성스러운 계곡에서 전통 직물 예술가로 살고 있는 평행세계의 이야기를 들려줘. 잉카 시대부터 전해 내려온 문양의 의미를 천에 담아내는 작업 중이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #841",
+    "concept": "1930년대 할렘 르네상스 시인",
+    "prompt": "Transform this person into a 1930s Harlem Renaissance poet in a Harlem jazz club, wearing stylish zoot suit with wide lapels, reading poetry from a small leather notebook at a microphone, jazz musicians playing softly behind, diverse sophisticated audience listening intently, Art Deco interior, warm smoky atmosphere, spotlight on the poet, photorealistic",
+    "storyPrompt": "1930년대 뉴욕 할렘에서 시인으로 살고 있는 평행세계의 이야기를 들려줘. 흑인 문예 부흥의 한복판에서 자유와 정체성을 노래하는 시를 발표하는 밤이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #219",
+    "concept": "터키 에브루 마블링 예술가",
+    "prompt": "Transform this person into a Turkish Ebru (paper marbling) artist, wearing simple traditional clothes, leaning over a large rectangular tray of thick liquid, using a fine stylus to create swirling intricate floral patterns in vivid colors on the water surface, finished marbled papers hanging to dry around the workshop, soft natural light, meditative atmosphere, photorealistic",
+    "storyPrompt": "이스탄불에서 에브루 예술가로 살고 있는 평행세계의 이야기를 들려줘. 물 위에 꽃을 피우는 수백 년 된 기법으로 유네스코 무형문화재로 지정된 기술을 전수하는 중이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #382",
+    "concept": "가나 켄테 직조 마스터",
+    "prompt": "Transform this person into a Ghanaian Kente cloth master weaver, wearing traditional Ghanaian attire, working at a large outdoor wooden loom with brilliant gold, green, red and black silk threads, partially completed Kente cloth showing complex geometric patterns, village setting with palm trees, other weavers working nearby, bright African sunlight, photorealistic",
+    "storyPrompt": "가나 아샨티 지역에서 켄테 직조 마스터로 살고 있는 평행세계의 이야기를 들려줘. 새 대통령의 취임식을 위한 특별한 켄테천을 짜고 있는데, 각 문양에 국가의 미래를 담는 중이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #504",
+    "concept": "1960년대 메시코시티 벽화 화가",
+    "prompt": "Transform this person into a 1960s Mexican muralist painting a massive wall mural in Mexico City, wearing paint-splattered overalls, standing on tall scaffolding with brush in hand, enormous colorful mural depicting revolution and workers covering the building wall, buckets of vibrant paint, assistants below, dramatic urban setting, photorealistic",
+    "storyPrompt": "1960년대 멕시코시티에서 벽화 화가로 살고 있는 평행세계의 이야기를 들려줘. 디에고 리베라의 정신을 이어받아 도시의 거대한 벽면에 민중의 역사를 그리는 중이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #867",
+    "concept": "라자스탄 전통 인형극 마스터",
+    "prompt": "Transform this person into a Rajasthani kathputli puppeteer in India, wearing colorful traditional Rajasthani turban and embroidered vest, manipulating beautiful handmade marionette puppets with strings, audience of mesmerized children in foreground, desert fort backdrop, colorful fabric tent, oil lamps providing warm flickering light, photorealistic",
+    "storyPrompt": "인도 라자스탄에서 전통 카트푸틀리 인형극 마스터로 살고 있는 평행세계의 이야기를 들려줘. 사라져가는 전통 인형극을 지키기 위해 마을을 떠돌며 공연을 이어가는 삶이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #196",
+    "concept": "아이슬란드 양모 니트 디자이너",
+    "prompt": "Transform this person into an Icelandic knitwear designer in a cozy turf-roofed cottage, wearing a beautiful hand-knitted lopapeysa sweater with traditional yoke pattern, surrounded by skeins of natural wool in earthy tones, knitting needles and works in progress scattered around, Icelandic landscape visible through window with horses and volcanic mountains, warm firelight, photorealistic",
+    "storyPrompt": "아이슬란드의 작은 마을에서 전통 양모 니트를 디자인하는 예술가로 살고 있는 평행세계의 이야기를 들려줘. 할머니에게 배운 패턴에 현대적 감각을 더해 세계에 알리려는 중이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #653",
+    "concept": "일본 우키요에 판화 장인",
+    "prompt": "Transform this person into an Edo-period ukiyo-e woodblock print artist, wearing indigo-dyed kimono with sleeves tied back, meticulously carving a cherry wood block with fine chisels, test prints of kabuki actors and landscapes pinned to walls, ink and pigment bowls arranged neatly, traditional Japanese workshop with paper screens, soft diffused light, photorealistic",
+    "storyPrompt": "에도 시대 일본에서 우키요에 판화 장인으로 살고 있는 평행세계의 이야기를 들려줘. 후지산의 서른여섯 가지 풍경을 담은 연작의 마지막 판을 새기는 순간이야."
+  },
+
+  {
+    "category": "everyday",
+    "tag": "Universe #142",
+    "concept": "마라케시 수크 향신료 상인",
+    "prompt": "Transform this person into a Marrakech souk spice merchant, wearing traditional Moroccan djellaba and kufi cap, standing behind towering pyramids of colorful ground spices in brass bowls — saffron yellow, paprika red, turmeric orange, cumin brown — in a narrow covered market alley, hanging lanterns casting warm patterned light, photorealistic",
+    "storyPrompt": "모로코 마라케시 수크에서 향신료 상인으로 살고 있는 평행세계의 이야기를 들려줘. 3대째 이어온 가게에서 전 세계의 향신료를 다루며, 코끝으로 향의 비밀을 읽는 사람이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #271",
+    "concept": "1970년대 뉴욕 택시 드라이버",
+    "prompt": "Transform this person into a 1970s New York City taxi driver sitting in a classic yellow Checker cab, wearing casual plaid shirt with rolled sleeves, one arm resting on the open window, Times Square neon lights reflecting off the wet hood, rain-slicked streets, steam rising from manholes, gritty 1970s NYC atmosphere, film grain texture, photorealistic",
+    "storyPrompt": "1970년대 뉴욕에서 택시 드라이버로 살고 있는 평행세계의 이야기를 들려줘. 밤마다 타임스퀘어를 누비며 수천 명의 승객과 수천 개의 인생 이야기를 실어 나르는 삶이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #398",
+    "concept": "태국 수상시장 과일 상인",
+    "prompt": "Transform this person into a Thai floating market fruit vendor, wearing traditional straw hat (ngob), sitting in a wooden long-tail boat overflowing with tropical fruits — mangoes, rambutans, dragon fruit, coconuts — paddling through a busy canal market, other vendor boats alongside, wooden houses on stilts, morning golden light reflecting on water, photorealistic",
+    "storyPrompt": "태국 담넌사두악 수상시장에서 과일 배를 몰며 장사하는 평행세계의 이야기를 들려줘. 새벽 4시에 배에 과일을 싣고 물길을 따라 시장으로 향하는 일상이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #534",
+    "concept": "아일랜드 시골 펍 주인",
+    "prompt": "Transform this person into an Irish country pub owner behind a worn wooden bar counter, wearing casual wool sweater, pulling a perfect pint of dark stout from a brass tap, cozy pub interior with fireplace crackling, old photographs and Gaelic signs on stone walls, fiddle and tin whistle on a shelf, regulars chatting in background, warm amber lighting, photorealistic",
+    "storyPrompt": "아일랜드 시골 마을에서 100년 된 펍을 운영하는 주인으로 살고 있는 평행세계의 이야기를 들려줘. 매주 토요일 밤 마을 사람들이 모여 음악을 연주하고 이야기꽃을 피우는 곳이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #657",
+    "concept": "하바나 클래식카 정비공",
+    "prompt": "Transform this person into a Havana classic car mechanic, wearing grease-stained tank top and worn jeans, leaning into the open hood of a beautiful 1957 Chevrolet Bel Air in pastel pink, tools scattered on the colorful Havana street, crumbling colonial buildings in background, other vintage American cars passing by, tropical afternoon light, photorealistic",
+    "storyPrompt": "쿠바 아바나에서 1950년대 클래식카를 정비하는 정비공으로 살고 있는 평행세계의 이야기를 들려줘. 부품이 없어서 직접 깎아 만들면서 60년 된 차를 살려내는 장인이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #773",
+    "concept": "네팔 히말라야 차 농장주",
+    "prompt": "Transform this person into a Nepalese tea farmer on terraced hillside plantation, wearing simple local clothing with dhaka topi hat, hand-picking tea leaves into a woven basket on back, lush green tea terraces cascading down the hillside, snow-capped Himalayan peaks in distance, morning mist rising from valleys, other workers scattered on terraces, photorealistic",
+    "storyPrompt": "네팔 히말라야 산기슭에서 차 농장을 운영하는 평행세계의 이야기를 들려줘. 해발 2000미터에서 키운 찻잎으로 세계 최고의 차를 만들겠다는 꿈을 가진 사람이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #185",
+    "concept": "베니스 곤돌라 뱃사공",
+    "prompt": "Transform this person into a Venetian gondolier on a classic black gondola, wearing traditional striped blue and white shirt with straw hat and red sash, standing and rowing with a single oar through a narrow Venice canal, ancient brick buildings with flower boxes, ornate bridges above, golden afternoon light on water, romantic atmosphere, photorealistic",
+    "storyPrompt": "베네치아에서 곤돌라 뱃사공으로 살고 있는 평행세계의 이야기를 들려줘. 할아버지 때부터 이어온 물길을 매일 노 저으며, 가라앉는 도시를 지키는 마지막 세대야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #329",
+    "concept": "알래스카 오지 우편 배달부",
+    "prompt": "Transform this person into an Alaskan bush mail carrier, wearing heavy winter parka with fur-lined hood, loading mail bags onto a small red bush plane on a frozen lake runway, vast white wilderness with spruce trees, dog sled team resting nearby, northern lights faintly visible in twilight sky, extreme isolation, breath vapor in frigid air, photorealistic",
+    "storyPrompt": "알래스카 오지 마을들에 경비행기로 우편을 배달하는 사람으로 살고 있는 평행세계의 이야기를 들려줘. 영하 40도의 겨울에도 외딴 마을 사람들에게 소식을 전해야 하는 사명이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #461",
+    "concept": "이스탄불 그랜드 바자르 양탄자 상인",
+    "prompt": "Transform this person into an Istanbul Grand Bazaar carpet merchant, wearing smart casual clothes with traditional Turkish vest, sitting cross-legged on stacked colorful handwoven carpets in a vaulted bazaar shop, hundreds of rolled carpets around, Turkish tea on brass tray, ornate hanging lanterns, warm bazaar atmosphere with passing shoppers, photorealistic",
+    "storyPrompt": "이스탄불 그랜드 바자르에서 양탄자 상인으로 살고 있는 평행세계의 이야기를 들려줘. 수백 년간 같은 자리를 지켜온 가게에서 각 양탄자에 담긴 이야기를 손님에게 들려주는 사람이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #593",
+    "concept": "포르투갈 어촌 마을 어부",
+    "prompt": "Transform this person into a Portuguese fishing village fisherman, wearing traditional plaid shirt and rubber boots, mending fishing nets on a colorful painted wooden boat on a sandy beach, whitewashed village with blue trim climbing hillside behind, Atlantic Ocean, seagulls, dried fish hanging on racks, warm late afternoon coastal light, photorealistic",
+    "storyPrompt": "포르투갈 나자레 어촌에서 전통 어부로 살고 있는 평행세계의 이야기를 들려줘. 매일 새벽 대서양으로 나가 그물을 던지며 아버지와 할아버지가 지켜온 바다를 이어가는 삶이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #726",
+    "concept": "인도 뭄바이 다바왈라 도시락 배달부",
+    "prompt": "Transform this person into a Mumbai dabbawala lunch delivery person, wearing traditional white Gandhi cap and white cotton kurta, carrying a large metal crate of stacked tiffin boxes on head, navigating through crowded Mumbai street near Churchgate station, yellow-black auto-rickshaws and red double-decker buses, monsoon clouds overhead, urban energy, photorealistic",
+    "storyPrompt": "인도 뭄바이에서 다바왈라 도시락 배달부로 살고 있는 평행세계의 이야기를 들려줘. 매일 수천 개의 도시락을 정확히 배달하는 시스템의 일원으로 비 오는 날에도 멈추지 않는 사람이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #852",
+    "concept": "프로방스 라벤더 농장주",
+    "prompt": "Transform this person into a Provence lavender farmer, wearing simple linen clothes and wide straw hat, standing in an endless field of brilliant purple lavender rows stretching to the horizon, old stone farmhouse in distance, Provençal cypress trees, honey bees buzzing, intense summer sunlight, overwhelming purple and gold color palette, photorealistic",
+    "storyPrompt": "프랑스 프로방스에서 라벤더 농장을 운영하는 평행세계의 이야기를 들려줘. 파리의 바쁜 삶을 버리고 시골로 내려와 보라색 들판 속에서 새로운 인생을 시작한 사람이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #248",
+    "concept": "1980년대 도쿄 라멘 장인",
+    "prompt": "Transform this person into a 1980s Tokyo ramen master in a tiny 8-seat counter ramen shop, wearing white headband and happi coat, lifting fresh noodles from a massive steaming pot with long chopsticks, rich tonkotsu broth simmering in huge pots behind, hand-written menu on wall, steam filling the cramped shop, late night customers slurping contentedly, photorealistic",
+    "storyPrompt": "1980년대 도쿄 골목에서 작은 라멘 가게를 운영하는 장인으로 살고 있는 평행세계의 이야기를 들려줘. 완벽한 한 그릇을 위해 20년간 매일 새벽 4시에 육수를 끓이는 사람이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #416",
+    "concept": "사하라 사막 투아레그 대상 인도자",
+    "prompt": "Transform this person into a Tuareg caravan guide in the Sahara, wearing traditional indigo blue tagelmust face veil and flowing robes, riding a decorated camel, leading a long line of laden camels through towering orange sand dunes, tracks stretching behind in the sand, vast empty desert, dramatic shadows at sunset, stars beginning to appear, photorealistic",
+    "storyPrompt": "사하라 사막을 횡단하는 투아레그 대상의 길잡이로 살고 있는 평행세계의 이야기를 들려줘. 별을 읽으며 사막을 건너는 기술을 가진 마지막 세대의 안내인이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #568",
+    "concept": "스리랑카 기차 차 판매원",
+    "prompt": "Transform this person into a Sri Lankan train tea seller on the famous hill country railway, wearing simple sarong and shirt, carrying a battered metal kettle and stack of small glasses, standing in the open doorway of a blue train carriage, lush green tea plantations and misty mountains rushing past, train curving around a mountainside, warm golden light, photorealistic",
+    "storyPrompt": "스리랑카 산악 열차에서 차를 파는 사람으로 살고 있는 평행세계의 이야기를 들려줘. 매일 아침 세계에서 가장 아름다운 철도를 오가며 승객들에게 따뜻한 실론티를 나누는 삶이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #694",
+    "concept": "멕시코 오악사카 시장 몰레 소스 장인",
+    "prompt": "Transform this person into a Oaxacan mole sauce maker at a colorful Mexican market stall, wearing embroidered huipil blouse and apron, grinding chocolate and chilies on a traditional metate stone, dozens of different dried chilies hanging overhead, jars of dark complex mole sauces, vibrant market atmosphere with papel picado banners, photorealistic",
+    "storyPrompt": "멕시코 오악사카 시장에서 전통 몰레 소스를 만드는 장인으로 살고 있는 평행세계의 이야기를 들려줘. 어머니에게 배운 30가지 재료의 비법을 지키며 시장에서 최고의 몰레를 만드는 사람이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #817",
+    "concept": "노르웨이 등대지기",
+    "prompt": "Transform this person into a Norwegian lighthouse keeper on a remote rocky island, wearing thick wool sweater and weatherproof jacket, standing on the lighthouse gallery with powerful light beam rotating above, stormy North Sea crashing against rocks below, rain lashing, isolated white lighthouse against dark dramatic sky, solitary but steadfast, photorealistic",
+    "storyPrompt": "노르웨이 북해의 외딴 섬 등대지기로 살고 있는 평행세계의 이야기를 들려줘. 폭풍우 치는 밤마다 등대불을 켜며, 바다 위 선원들의 생명줄이 되어주는 고독한 삶이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #935",
+    "concept": "볼리비아 우유니 소금사막 소금 채굴꾼",
+    "prompt": "Transform this person into a Bolivian salt harvester on the Salar de Uyuni salt flat, wearing sun-bleached work clothes and wide hat, using a pickaxe to break salt crust into blocks, endless white mirror-like salt flat reflecting perfect blue sky and clouds, creating an infinity effect, small piles of salt blocks stacked nearby, blinding white light, photorealistic",
+    "storyPrompt": "볼리비아 우유니 소금사막에서 소금을 캐는 사람으로 살고 있는 평행세계의 이야기를 들려줘. 하늘과 땅의 경계가 사라지는 거울 같은 사막에서 매일 소금을 캐며 살아가는 이야기야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #173",
+    "concept": "캄보디아 앙코르와트 관광 가이드",
+    "prompt": "Transform this person into a Cambodian tour guide at Angkor Wat, wearing neat casual clothes with a krama scarf, gesturing toward the magnificent temple towers at sunrise, ancient stone carvings and bas-reliefs visible, reflecting pool in foreground mirroring the temple, small group of tourists listening attentively, warm pink and gold dawn light, photorealistic",
+    "storyPrompt": "캄보디아 앙코르와트에서 관광 가이드로 살고 있는 평행세계의 이야기를 들려줘. 어린 시절 전쟁의 폐허 속에서 자라 지금은 세계 유산을 지키며 이야기를 전하는 사람이야."
+  },
+  {
+    "category": "everyday",
+    "tag": "Universe #306",
+    "concept": "그리스 산토리니 어부 겸 타베르나 주인",
+    "prompt": "Transform this person into a Santorini fisherman-taverna owner, wearing simple white shirt with rolled sleeves, sitting outside a tiny blue-doored whitewashed taverna perched on a cliff, grilling fresh octopus over charcoal, Aegean Sea sparkling impossibly blue below, iconic white and blue Santorini architecture, bougainvillea cascading over walls, Mediterranean sunset, photorealistic",
+    "storyPrompt": "그리스 산토리니에서 낮에는 고기를 잡고 밤에는 작은 타베르나를 운영하는 평행세계의 이야기를 들려줘. 에게해에서 잡은 생선으로 손님들에게 요리를 대접하는 소박한 삶이야."
+  },
+
+  {
+    "category": "knowledge",
+    "tag": "Universe #429",
+    "concept": "1940년대 블레츨리 파크 수학자",
+    "prompt": "Transform this person into a 1940s Bletchley Park mathematician, wearing wool cardigan over collared shirt, working at a desk cluttered with papers and mechanical cipher devices, wooden hut interior with blackout curtains, chalk equations on a portable blackboard, dim desk lamp, wartime tension and intellectual focus, photorealistic",
+    "storyPrompt": "2차 세계대전 중 영국 블레츨리 파크에서 적국의 암호를 해독하는 수학자로 살고 있는 평행세계의 이야기를 들려줘. 해독 불가능하다던 암호에서 패턴을 발견한 새벽이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #258",
+    "concept": "1800년대 줄루 왕국 전사 왕",
+    "prompt": "Transform this person into a Zulu Kingdom warrior king, wearing traditional isicoco headring and leopard skin regalia, holding an iklwa short spear and cowhide shield, standing on a hilltop overlooking assembled Zulu impi regiments in formation on the African savanna, dramatic storm clouds gathering, powerful commanding presence, photorealistic",
+    "storyPrompt": "19세기 줄루 왕국의 전사 왕으로 살고 있는 평행세계의 이야기를 들려줘. 유럽 식민지 세력이 다가오는 가운데 왕국을 지키기 위해 전사들을 소집하는 순간이야."
+  },
+  {
+    "category": "power",
+    "tag": "Universe #763",
+    "concept": "르네상스 베네치아 공화국 총독",
+    "prompt": "Transform this person into a Renaissance Venetian Doge in the Palazzo Ducale, wearing elaborate gold brocade robes and the distinctive corno ducale hat, standing before a massive Tintoretto painting in the Grand Council chamber, marble columns and gilded ceiling, Venetian senators in background, regal authority, photorealistic",
+    "storyPrompt": "르네상스 시대 베네치아 공화국의 총독으로 살고 있는 평행세계의 이야기를 들려줘. 지중해 무역로의 패권을 놓고 오스만 제국과 외교 담판을 벌이는 순간이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #571",
+    "concept": "세네갈 그리오 전통 음유시인",
+    "prompt": "Transform this person into a Senegalese griot storyteller musician, wearing grand boubou robe in rich gold and indigo, playing a kora (21-string harp) under a massive baobab tree, village gathering around listening intently, West African savanna landscape, warm golden sunset, dust motes in air, dignified and melodic presence, photorealistic",
+    "storyPrompt": "세네갈에서 그리오 음유시인으로 살고 있는 평행세계의 이야기를 들려줘. 바오밥 나무 아래에서 코라를 연주하며 수백 년간 전해 내려온 부족의 역사를 노래하는 사람이야."
+  },
+  {
+    "category": "art",
+    "tag": "Universe #892",
+    "concept": "1950년대 브라질 보사노바 기타리스트",
+    "prompt": "Transform this person into a 1950s Brazilian bossa nova guitarist on a moonlit Copacabana beach, wearing casual linen shirt unbuttoned, sitting on a wooden chair with nylon-string classical guitar, Rio de Janeiro cityscape and Sugarloaf Mountain silhouetted against starry sky, small intimate audience on the sand, warm tropical night, photorealistic",
+    "storyPrompt": "1950년대 리우데자네이루 코파카바나 해변에서 보사노바 기타를 치는 뮤지션으로 살고 있는 평행세계의 이야기를 들려줘. 달빛 아래 해변에서 새로운 장르의 음악이 탄생하는 밤이야."
+  }
+]

@@ -3,9 +3,7 @@ import Webcam from './components/Webcam'
 import LoadingOverlay from './components/LoadingOverlay'
 import CropModal from './components/CropModal'
 import TypeWriter from './components/TypeWriter'
-import { generateImage } from './lib/gemini'
-import { generateUniverses, generateStory } from './lib/claude'
-import { generateId, saveSession, loadSession } from './lib/db'
+import { startGeneration as apiGenerate, loadSession } from './lib/api'
 
 export default function App() {
   const [sessionId, setSessionId] = useState(null)
@@ -20,24 +18,54 @@ export default function App() {
   const [currentCard, setCurrentCard] = useState(0)
   const [typingDone, setTypingDone] = useState(false)
   const [seenCards, setSeenCards] = useState(new Set())
+  const [genProgress, setGenProgress] = useState(0) // tracks how many cards done during generation
   const fileInputRef = useRef(null)
 
-  // Load session from URL if ?id= present
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search)
-    const id = params.get('id')
+  // Restore session from URL
+  const restoreSession = useCallback((id) => {
     if (!id) return
-
     loadSession(id).then((session) => {
       if (!session) return
       setSessionId(session.id)
-      setUniverses(session.universes)
-      setResults(session.results)
       setUserName(session.userName || '')
+      setUniverses(session.universes.map((u) => ({ tag: u.tag, concept: u.concept })))
+      setResults(session.universes.map((u) => ({
+        image: u.imageUrl || 'error',
+        story: u.story || '이 세계의 이야기는 아직 전해지지 않았습니다...',
+      })))
       setTypingDone(true)
+      setSeenCards(new Set(session.universes.map((_, i) => i)))
       setPhase('results')
     })
   }, [])
+
+  // Load session from URL on mount
+  useEffect(() => {
+    const id = new URLSearchParams(window.location.search).get('id')
+    if (id) restoreSession(id)
+  }, [restoreSession])
+
+  // Handle browser back/forward
+  useEffect(() => {
+    const handlePopState = () => {
+      const id = new URLSearchParams(window.location.search).get('id')
+      if (id) {
+        restoreSession(id)
+      } else {
+        // Back to input screen
+        setPhase('input')
+        setSessionId(null)
+        setResults([])
+        setUniverses([])
+        setCurrentCard(0)
+        setTypingDone(false)
+        setSeenCards(new Set())
+        setGenProgress(0)
+      }
+    }
+    window.addEventListener('popstate', handlePopState)
+    return () => window.removeEventListener('popstate', handlePopState)
+  }, [restoreSession])
 
   const isReady = !!photo
 
@@ -78,77 +106,48 @@ export default function App() {
     if (!isReady) return
 
     setPhase('generating')
+    setGenProgress(0)
 
-    // Generate session ID
-    const sid = generateId()
-    setSessionId(sid)
+    let isFirstCard = true
 
-    // Step 1: Gemini generates 5 unique universes
-    let generatedUniverses
-    try {
-      generatedUniverses = await generateUniverses()
-    } catch (e) {
-      console.error('유니버스 생성 실패:', e)
-      setPhase('input')
-      return
-    }
-
-    setUniverses(generatedUniverses)
-    setCurrentCard(0)
-    setTypingDone(false)
-
-    // Step 2: Start generating, stay on loading until first card is ready
-    const newResults = generatedUniverses.map(() => ({ image: 'loading', story: 'loading' }))
-    setResults([...newResults])
-
-    for (let i = 0; i < generatedUniverses.length; i++) {
-      const universe = generatedUniverses[i]
-
-      // Image
-      try {
-        const imageUrl = await generateImage(photo.base64, photo.mimeType, universe.prompt)
-        newResults[i].image = imageUrl
-      } catch {
-        newResults[i].image = 'error'
-      }
-      setResults([...newResults])
-
-      // Story
-      try {
-        const story = await generateStory(universe.storyPrompt, userName)
-        newResults[i].story = story
-      } catch {
-        newResults[i].story = '이 세계의 이야기는 아직 전해지지 않았습니다...'
-      }
-      setResults([...newResults])
-
-      // Switch to results view after first card is complete
-      if (i === 0) setPhase('results')
-
-      // Save incrementally after each card completes
-      try {
-        await saveSession(sid, {
-          universes: generatedUniverses,
-          results: [...newResults],
-          userName,
-          createdAt: new Date().toISOString(),
+    await apiGenerate({ photo, userName }, {
+      onSession: ({ sessionId }) => {
+        setSessionId(sessionId)
+      },
+      onUniverses: (univs) => {
+        setUniverses(univs)
+        setCurrentCard(0)
+        setTypingDone(false)
+        setResults(univs.map(() => ({ image: 'loading', story: 'loading' })))
+      },
+      onCard: ({ index, imageUrl, imageStatus, story, storyStatus }) => {
+        setResults((prev) => {
+          const next = [...prev]
+          next[index] = {
+            image: imageStatus === 'error' ? 'error' : imageUrl,
+            story: storyStatus === 'error' ? '이 세계의 이야기는 아직 전해지지 않았습니다...' : story,
+          }
+          return next
         })
-      } catch (e) {
-        console.error('세션 저장 실패:', e)
-      }
-
-      // Rate limit buffer
-      if (i < generatedUniverses.length - 1) {
-        await new Promise((r) => setTimeout(r, 1000))
-      }
-    }
-
-    // Update URL with session ID
-    window.history.replaceState(null, '', `?id=${sid}`)
+        setGenProgress(index + 1)
+        if (isFirstCard) {
+          isFirstCard = false
+          setPhase('results')
+        }
+      },
+      onDone: ({ sessionId }) => {
+        window.history.replaceState(null, '', `?id=${sessionId}`)
+      },
+      onError: (msg) => {
+        console.error('생성 실패:', msg)
+        setPhase('input')
+      },
+    })
   }
 
   const reset = () => {
     setPhase('input')
+    setSessionId(null)
     setPhoto(null)
     setRawImage(null)
     setOriginalImage(null)
@@ -157,7 +156,9 @@ export default function App() {
     setCurrentCard(0)
     setTypingDone(false)
     setSeenCards(new Set())
+    setGenProgress(0)
     setInputMode('upload')
+    window.history.pushState(null, '', window.location.pathname)
   }
 
   // ── Input Screen ──
@@ -168,7 +169,7 @@ export default function App() {
           <CropModal imageSrc={rawImage} onConfirm={handleCropConfirm} onCancel={handleCropCancel} />
         )}
         {phase === 'generating' && (
-          <LoadingOverlay current={0} total={5} phase="universes" />
+          <LoadingOverlay current={genProgress} total={5} phase="content" />
         )}
 
         <section className="min-h-screen flex flex-col items-center justify-center px-6 py-12 relative">
